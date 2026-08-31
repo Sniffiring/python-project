@@ -48,6 +48,6 @@ elif option == "user2":
 
 elif option == "exit":
 
-    print("Goodbye!")
+    print("Thank you")
     
 
