@@ -1,0 +1,90 @@
+[
+    {
+        "id": 101,
+        "name": "Rahul Sharma",
+        "height": 172,
+        "mob_no": "9876543210",
+        "blood_group": "B+",
+        "weight": 68
+    },
+    {
+        "id": 102,
+        "name": "Priya Verma",
+        "height": 160,
+        "mob_no": "9812345678",
+        "blood_group": "A+",
+        "weight": 55
+    },
+    {
+        "id": 103,
+        "name": "Amit Singh",
+        "height": 178,
+        "mob_no": "9898765432",
+        "blood_group": "O+",
+        "weight": 74
+    },
+    {
+        "id": 104,
+        "name": "Neha Gupta",
+        "height": 165,
+        "mob_no": "9765432109",
+        "blood_group": "AB+",
+        "weight": 58
+    },
+    {
+        "id": 105,
+        "name": "Rohan Mehta",
+        "height": 181,
+        "mob_no": "9988776655",
+        "blood_group": "A-",
+        "weight": 82
+    },
+    {
+        "id": 106,
+        "name": "Sneha Kapoor",
+        "height": 158,
+        "mob_no": "9871234567",
+        "blood_group": "O-",
+        "weight": 52
+    },
+    {
+        "id": 107,
+        "name": "Karan Patel",
+        "height": 175,
+        "mob_no": "9900112233",
+        "blood_group": "B-",
+        "weight": 71
+    },
+    {
+        "id": 108,
+        "name": "Anjali Joshi",
+        "height": 162,
+        "mob_no": "9955667788",
+        "blood_group": "AB-",
+        "weight": 57
+    },
+    {
+        "id": 109,
+        "name": "Vikas Yadav",
+        "height": 180,
+        "mob_no": "9823456789",
+        "blood_group": "O+",
+        "weight": 79
+    },
+    {
+        "id": 110,
+        "name": "Pooja Mishra",
+        "height": 167,
+        "mob_no": "9797979797",
+        "blood_group": "A+",
+        "weight": 61
+    },
+    {
+        "id": 110,
+        "Name": "prankul",
+        "height": 1.7,
+        "mob_no": 9898989898,
+        "blood_group": "a+",
+        "weight": 76.5
+    }
+]
